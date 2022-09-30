@@ -9,10 +9,10 @@ Retail Store Stock Inventory Analytics
 
 
 ## ASSIGNMENT
-- MADHUMITHA R [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/tree/main/Assignment/Team%20Lead%20-%20Madhumitha)
-- ABISHA M [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/tree/main/Assignment/Team%20Member%201%20-%20Abisha)
-- DEEPIKA S [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/tree/main/Assignment/Team%20Member%202%20-%20Deepika)
-- THIRUTHAMIZHI T [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/tree/main/Assignment/Team%20Member%203%20-%20Thiruthamizhi)
+- MADHUMITHA R [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/tree/main/Assignment/Team%20Lead%20-%20Madhumitha)
+- ABISHA M [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/tree/main/Assignment/Team%20Member%201%20-%20Abisha)
+- DEEPIKA S [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/tree/main/Assignment/Team%20Member%202%20-%20Deepika)
+- THIRUTHAMIZHI T [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/tree/main/Assignment/Team%20Member%203%20-%20Thiruthamizhi)
 
 ## PROJECT DESIGN & PLANNING
  ### IDEATION PHASE
