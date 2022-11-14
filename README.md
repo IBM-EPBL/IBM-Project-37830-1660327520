@@ -28,4 +28,4 @@ Retail Store Stock Inventory Analytics
 - CUSTOMER JOURNEY MAP [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Customer%20Journey%20Map.pdf)
 - DATA FLOW DIAGRAM [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Data%20Flow%20Diagram.pdf)
 - FUNCTIONAL REQUIREMENTS [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Functional%20Requirements.pdf)
-- TECHNOLOGY ARCHITECTURE [CLICK HERE]()
+- TECHNOLOGY ARCHITECTURE [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Technology%20Architecture.pdf)
