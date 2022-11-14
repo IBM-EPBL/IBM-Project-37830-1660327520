@@ -24,3 +24,4 @@ Retail Store Stock Inventory Analytics
 - PROPOSED SOLUTION [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf)
 - SOLUTION ARCHITECTURE [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution%20Architecture.pdf)
 - PROBLEM SOLUTION FIT DOCUMENT [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Problem_Solutiuon_Fit_Document.pdf)
+### PROJECT DESIGN PHASE 2
