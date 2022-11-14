@@ -30,3 +30,7 @@ Retail Store Stock Inventory Analytics
 - FUNCTIONAL REQUIREMENTS [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Functional%20Requirements.pdf)
 - TECHNOLOGY ARCHITECTURE [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Technology%20Architecture.pdf)
 ## PROJECT DEVELOPMENT PHASE
+- SPRINT 1 [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Development%20Phase/Sprint-1/Sprint-1/PNT2022TMID47316%20SPRINT%201.pdf)
+- SPRINT 2 [CLICK HERE]()
+- SPRINT 3 [CLICK HERE]()
+- SPRINT 4 [CLICK HERE]()
