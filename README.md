@@ -33,4 +33,4 @@ Retail Store Stock Inventory Analytics
 - SPRINT 1 [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Development%20Phase/Sprint-1/Sprint-1/PNT2022TMID47316%20SPRINT%201.pdf)
 - SPRINT 2 [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Development%20Phase/Sprint-1/Sprint%202/PNT2022TMID47316%20SPRINT%202.pdf)
 - SPRINT 3 [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Development%20Phase/Sprint-1/Sprint%203/PNT2022TMID47316%20SPRINT%203.pdf)
-- SPRINT 4 [CLICK HERE]()
+- SPRINT 4 [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37830-1660327520/blob/main/Project%20Development%20Phase/Sprint-1/Sprint%204/PNT2022TMID47316%20SPRINT%204.pdf)
